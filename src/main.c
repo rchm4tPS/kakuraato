@@ -14,8 +14,7 @@ int main() {
     printf(" \n\t Masukkan ekspresi matematika disini : ");
     scanf(" %30[^\n]%*c", expression);
 
-    // tree = parseExpressionToBinTree(expression);
-    // // printBinaryTree(tree);
+  
 
     return 0;
 }
